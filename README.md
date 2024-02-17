@@ -12,11 +12,11 @@ Confira o projeto <a href="https://pesquisaanimadagoogle.netlify.app/">pesquisa 
 <a href="https://pesquisaanimadagoogle.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div>
 
-![alt text](preview-closed.png)
+![preview-closed](https://github.com/daniel-portela/targeted-search-for-google/assets/110783805/6080d376-b543-4a91-bb3f-53e0615f3625)
 
-![alt text](preview-open.png)
+![preview-open](https://github.com/daniel-portela/targeted-search-for-google/assets/110783805/d5bb4af1-bab8-4d96-b7be-09aac8e06ce2)
 
-![alt text](preview-responsive.jpg)
+![preview-responsive](https://github.com/daniel-portela/targeted-search-for-google/assets/110783805/ed6d6778-b9e3-4a5d-8835-456c38453067)
 
 <b>Tecnologias utilizadas</b>
 
