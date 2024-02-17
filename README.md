@@ -23,6 +23,7 @@ Confira o projeto <a href="https://pesquisaanimadagoogle.netlify.app/">pesquisa 
 HTML5: 
 
 Utilizado para estruturar a página da web.
+
 CSS3: 
 
 Estilização da interface do usuário, incluindo animações e layout responsivo.
