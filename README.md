@@ -65,6 +65,38 @@ Otimizando o código CSS/SCSS para melhor desempenho e legibilidade.
 
 Sinta-se à vontade para abrir uma <b>issue</b> ou enviar um <b>pull reques</b> com suas contribuições.
 
+<b>Como utilizar:</b>
+
+Clone o repositório para sua máquina local.
+
+<p>Antes de começar, certifique-se de atender aos seguintes requisitos:</p>
+
+[Git](https://git-scm.com/downloads "Download Git") deve ser instalado em seu sistema operacional.
+
+<b>Execute localmente:</b>
+
+Para executar o <b>projeto</b> localmente, execute este comando em seu git bash:
+
+<b>Linux e macOS:</b>
+
+```bash
+git clone https://github.com/daniel-portela/targeted-search-for-google.git
+```
+
+<b>Windows:</b>
+
+```bash
+git clone https://github.com/daniel-portela/targeted-search-for-google.git
+```
+Depois de clonar o repositório, acesse o projeto com o seguinte comando:
+
+```bash
+cd nome-do-repositorio
+```
+```bash
+Você pode abri-lo no VS Code digitando "code ."
+```
+
 <b>Autor</b>
 
 Este projeto foi desenvolvido por <a href="https://github.com/daniel-portela/">Daniel Portela</a>
